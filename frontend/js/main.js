@@ -336,7 +336,7 @@ function animar(timestamp) {
             finalMsg.classList.add('show');
             finalMsg.innerHTML = '';
             
-            const texto = "Toma, unas flores que quizá no recibiste cuando debías. 🌻<br>Nunca está de más recibir un pequeño detalle, aunque sea porque sí. XD";
+            const texto = "Como vi que varias se quedaron sin ramo, mejor les programé unas. 🌻 Pasen a recoger sus flores digitales, pura buena vibra. 💻💛";
             let i = 0;
             
             function escribir() {
