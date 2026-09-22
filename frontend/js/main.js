@@ -336,7 +336,7 @@ function animar(timestamp) {
             finalMsg.classList.add('show');
             finalMsg.innerHTML = '';
             
-            const texto = "Para la dueña de mi corazón, que sin saberlo ilumina mis días como el sol a estos girasoles y hace mi mundo un poquito más bonito. 🌻❤️";
+            const texto = "Toma, unas flores que quizá no recibiste cuando debías. 🌻<br>Nunca está de más recibir un pequeño detalle, aunque sea porque sí. XD";
             let i = 0;
             
             function escribir() {
